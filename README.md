@@ -21,10 +21,10 @@ The platform is live and accessible at:
 
 ## 📜 **Smart Contract**
 
-The Smart Contract is deployed on the **Telos Testnet** at [0xb06cbbeae36edba7a14d733e8ae922a29630c7c1](https://testnet.teloscan.io/address/0xb06cbbeae36edba7a14d733e8ae922a29630c7c1).  
+The Smart Contract is deployed on the **Telos Testnet** at [0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb](https://testnet.teloscan.io/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb).  
 Visit the link below to view it on the explorer!
 
-*🔗 [Smart Contract on Block Explorer](https://testnet.teloscan.io/address/0xb06cbbeae36edba7a14d733e8ae922a29630c7c1)*
+*🔗 [Smart Contract on Block Explorer](https://testnet.teloscan.io/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb)*
 
 ---
 
